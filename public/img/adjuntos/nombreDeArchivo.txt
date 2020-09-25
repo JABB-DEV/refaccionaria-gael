@@ -1,0 +1,23 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 5235-2491
+
+ Directorio de C:\laragon\www\refaccionaria-gael\public\img\adjuntos
+
+21/09/2020  09:01 p. m.    <DIR>          .
+21/09/2020  09:01 p. m.    <DIR>          ..
+21/09/2020  08:29 p. m.            13,683 230118ca-eb2a-4927-b05a-9bef17d4ff5d.JPG
+21/09/2020  08:29 p. m.            15,527 308d760c-49a4-4a78-a08e-4bac18d645e3.JPG
+21/09/2020  08:29 p. m.             5,973 4164d277-351a-4c9f-a731-ebef8b3dd3e1.JPG
+21/09/2020  08:29 p. m.             8,792 452659f2-0ad5-405c-b221-1d4118c84bd9.JPG
+21/09/2020  08:29 p. m.            14,421 571991c6-67e1-4d30-acf0-60789e1bad03.JPG
+21/09/2020  08:29 p. m.            10,062 6e094ec8-7c28-4504-8685-af9475fa1a3d.JPG
+21/09/2020  08:29 p. m.             7,182 6e631dba-dc99-40a8-9a2f-b4fbbc01f076.JPG
+21/09/2020  08:29 p. m.             9,892 6f695a3f-94f7-4134-b90f-e9a6ef38e056.JPG
+21/09/2020  08:29 p. m.             9,360 73748785-578a-44f9-9ff6-adcf2f9c1367.JPG
+21/09/2020  08:29 p. m.            42,243 bf7a76b1-ea4e-4f24-a333-b12c0fe37b11.JPG
+21/09/2020  08:29 p. m.             6,542 e2c32091-dc4a-4ad7-97e4-ee2726ecddcf.JPG
+21/09/2020  08:29 p. m.             6,580 f2ade6e4-eda7-4d30-90fc-183e477f082c.JPG
+21/09/2020  08:29 p. m.            76,883 fd1d8f92-f83e-4372-a472-44a1dcd2199a.JPG
+21/09/2020  09:01 p. m.                 0 nombreDeArchivo.txt
+              14 archivos        227,140 bytes
+               2 dirs  18,522,288,128 bytes libres

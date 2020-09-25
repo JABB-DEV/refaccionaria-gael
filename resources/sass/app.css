@@ -1,0 +1,104 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.encabezado {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: .3em;
+}
+
+.encabezado .buscador {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.encabezado .buscador__button {
+  margin-left: .3em;
+  background-color: red;
+  border: none;
+  padding: .5em 1.4em .5em 1.4em;
+  color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-column-gap: .3em;
+          column-gap: .3em;
+  -webkit-transition: background .5s;
+  transition: background .5s;
+}
+
+.encabezado .buscador__button:hover {
+  margin: none;
+  background-color: #cc0000;
+  outline: none;
+}
+
+.encabezado .buscador__input {
+  padding: .35em .2em .35em 1em;
+}
+
+.encabezado .buscador__input:hover {
+  outline: none;
+}
+
+.encabezado .buscador__input:focus {
+  outline: none;
+}
+
+.encabezado .buscador__input::-webkit-search-cancel-button {
+  cursor: pointer;
+}
+
+.encabezado .nombre {
+  padding: .2em 1em 0 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 1.5em;
+}
+
+@media (max-width: 991px) {
+  .encabezado {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+    row-gap: .3em;
+    margin-bottom: .5em;
+  }
+  .encabezado img {
+    display: none;
+  }
+  .encabezado .nombre {
+    font-weight: 500;
+  }
+}
+/*# sourceMappingURL=app.css.map */
