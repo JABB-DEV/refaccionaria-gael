@@ -48,7 +48,7 @@
                         url:"/showSelect/"+param,
                         data: data,
                         beforeSend: () =>{
-                            $.blockUI({ message: '<img src="{{asset('img/91.gif')}}" width="150" height="150" /><br><p>Cargando recurso...</p>' })
+                            $.blockUI({ message: "<img src='{{asset('img/91.gif')}}' width='150' height='150' /><br><p>Cargando recurso...</p>" })
                         },
                         success: data => {
                             for(let i = 0; i < data.length; i++){
